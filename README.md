@@ -18,8 +18,8 @@
 |6  | 00.00.00  | Введение в Scikit-Learn                                            |[github](/seminars/6/seminar_6.ipynb)                                                               |
 |7  | 00.00.00  | Оценка качества моделей, кросс-валидация, подбор гиперпараметров   |[github](/seminars/7/seminar_7.ipynb)                                                               |
 |8  | 00.00.00  | Линейные модели                                                    |[github](/seminars/8/seminar_8.ipynb)                                                               |
-|9  | 00.00.00  | Линейные модели                                                    |[github](/seminars/9/seminar_9.ipynb)                                                               |
-|10 | 00.00.00  | Линейные модели                                                    |[github](/seminars/10/seminar_10.ipynb)                                                             |
+|9  | 00.00.00  | Ядерные методы                                                     |[github](/seminars/9/seminar_9.ipynb)                                                               |
+|10 | 00.00.00  | Машина опорных векторов                                            |[github](/seminars/10/seminar_10.ipynb)                                                             |
 |11 | 00.00.00  | Линейные модели                                                    |[github](/seminars/11/seminar_11.ipynb)                                                             |
 |12 | 00.00.00  | Линейные модели                                                    |[github](/seminars/12/seminar_12.ipynb)                                                             |
 |13 | 00.00.00  | Линейные модели                                                    |[github](/seminars/13/seminar_13.ipynb)                                                             |

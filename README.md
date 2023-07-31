@@ -31,4 +31,5 @@
 
 ## Рекомендуемая литература
 Kevin P. Murphy: Probabilistic Machine Learning: An Introduction
+
 Jake VanderPlas: Python Data Science Handbook, 2nd Edition

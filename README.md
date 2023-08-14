@@ -11,7 +11,7 @@
 |#  |Дата       |Tема                                                                |Материалы                                                                                           |
 |---|-----------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 |1  | 00.00.00  | Работа с Jupyter Notebook. Введение в Python                       |[github](/seminars/01/01_python_intro.ipynb)                                                        |
-|2  | 00.00.00  | Введение в ООП                                                     |[github](/seminars/02/sem02_OOP_v2.ipynb   )                                                        |
+|2  | 00.00.00  | Введение в ООП                                                     |[github](/seminars/02/sem02_OOP_v4.ipynb   )                                                        |
 |3  | 00.00.00  | Библиотеки Numpy + Scipy                                           |[github](/seminars/03/seminar_3_Numpy.ipynb)                                                        |
 |4  | 00.00.00  | Библиотека Pandas                                                  |[github](/seminars/04/seminar_4_Pandas.ipynb)                                                       |
 |5  | 00.00.00  | Визуализация данных (Matplotlib    )                               |[github](/seminars/05/seminar_5_Matplotlib.ipynb)                                                   |

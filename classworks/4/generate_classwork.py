@@ -37,9 +37,9 @@ def dict_to_ktx(input_dict, output_file, keystarter='<'):
 
 HEADERS = ktx_to_dict('headers.ktx')
 
-QHA_1 = ktx_to_dict('exercises_1.ktx')
-QHA_2 = ktx_to_dict('exercises_2.ktx')
-QHA_3 = ktx_to_dict('exercises_3.ktx')
+QHA_1 = ktx_to_dict('exercises_1_1.ktx')
+QHA_2 = ktx_to_dict('exercises_2_1.ktx')
+QHA_3 = ktx_to_dict('exercises_3_1.ktx')
 
 def create_jupyter_notebook_random_questions(destination_filename='ClassWork_[YourName].ipynb'):
     """ Programmatically create jupyter notebook with the questions (and hints and solutions if required)

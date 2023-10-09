@@ -18,8 +18,8 @@
 |6  | 11.09.23  | Визуализация данных (Seaborn+Plotly)                               |[github](/seminars/06/seminar_6_Seaborn.ipynb) [github](/seminars/06/seminar_6_Plotly.ipynb)        |
 |7  | 18.09.23  | Введение в Scikit-Learn                                            |[github](/seminars/07/seminar_7.ipynb)                                                              |
 |   | 18.09.23  | Оценка качества моделей, кросс-валидация, подбор гиперпараметров   |[github](/seminars/08/seminar_8.ipynb)                                                              |
-|8  | 00.00.00  | Линейные модели                                                    |[github](/seminars/09/seminar_9.ipynb)                                                              |
-|9  | 00.00.00  | Ядерные методы. Машина опорных векторов                            |[github](/seminars/10/seminar_10.ipynb)                                                             |
+|8  | 25.09.23  | Линейные модели                                                    |[github](/seminars/09/seminar_9.ipynb)                                                              |
+|9  | 04.10.23  | Ядерные методы. Машина опорных векторов                            |[github](/seminars/10/seminar_10.ipynb)                                                             |
 |10 | 00.00.00  | Деревья решений. Примеры, визуализации                             |[github](/seminars/11/seminar_11.ipynb)                                                             |
 |11 | 00.00.00  | Бэггинг, бустинг, стекинг. Примеры, визуализации                   |[github](/seminars/12/seminar_12.ipynb)                                                             |
 |12 | 00.00.00  | Предобработка данных                                               |[github](/seminars/13/seminar_13.ipynb)                                                             |

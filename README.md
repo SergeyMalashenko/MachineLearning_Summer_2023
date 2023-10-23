@@ -21,9 +21,9 @@
 |8  | 25.09.23  | Линейные модели                                                    |[github](/seminars/09/seminar_9.ipynb)                                                              |
 |9  | 04.10.23  | Ядерные методы. Машина опорных векторов                            |[github](/seminars/10/seminar_10.ipynb)                                                             |
 |10 | 09.10.23  | Рабор домашнего задания. Деревья решений.                          |[github](/seminars/11/homework_11.ipynb)                                                            |
-|11 | 16.10.23  | Деревья решений. Бэггинг, бустинг, стекинг. Примеры, визуализации  |[github](/seminars/11/seminar_11.ipynb)                                                             |
-|12 | 23.10.23  | Предобработка данных                                               |[github](/seminars/12/seminar_12.ipynb)                                                             |
-|13 | 30.10.23  | Конвейеры обработки данных в Scikit-learn                          |[github](/seminars/13/seminar_13.ipynb)                                                             |
+|11 | 16.10.23  | Деревья решений. Бэггинг и бустинг. Примеры, визуализации          |[github](/seminars/11/seminar_11.ipynb)                                                             |
+|12 | 23.10.23  | Ансамбли моделей. Блендинг и стекинг. Примеры, визуализации        |[github](/seminars/12/seminar_12.ipynb)                                                             |
+|13 | 30.10.23  | Предобработка данных. Конвейеры обработки данных в Scikit-learn    |[github](/seminars/13/seminar_13.ipynb)                                                             |
 |14 | 06.11.23  | Методы отбора признаков для линейных и деревянных моделей          |[github](/seminars/14/seminar_14.ipynb)                                                             |
 |15 | 13.11.23  | K-means. Метрики для выбора моделей                                |[github](/seminars/15/seminar_15.ipynb)                                                             |
 |16 | 20.11.23  | Финальное занятие                                                  |[github](/seminars/16/seminar_16.ipynb)                                                             |
